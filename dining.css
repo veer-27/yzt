@@ -1,0 +1,53 @@
+body
+{
+    background-size:cover;
+}
+
+.heading
+{
+    width:100%;
+    margin:0;
+    text-align: center;
+    font-size:70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color:black;
+}
+
+.a
+{
+    background-color:white;
+    font-size:40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    border-radius:20px;
+}
+
+.heading_tag
+{
+    font-family:initial;
+    font-weight:bolder;
+    font-size:100px;
+    margin:0px;
+    width:100%;
+    height:50px;
+    color:black;
+    background-color:whitesmoke;
+}
+
+.back_button
+{
+    text-align:center;
+    margin-left:1100px;
+    margin-top:30px;
+    font-size:20px;
+    color:white;
+    background-color:maroon;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px cyan;
+    border-radius:5px;
+    border-color:cyan;
+}
